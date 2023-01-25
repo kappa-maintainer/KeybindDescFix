@@ -1,14 +1,14 @@
 [
 {
-  "modid": "examplemod",
-  "name": "Example Mod",
-  "description": "Example placeholder mod.",
+  "modid": "keydescfix",
+  "name": "Keybind Description Fix",
+  "description": "Fixes description out of window",
   "version": "${version}",
   "mcversion": "${mcversion}",
   "url": "",
   "updateUrl": "",
-  "authorList": ["CleanroomMC"],
-  "credits": "Authors of this project",
+  "authorList": ["kappa_maintainer"],
+  "credits": "Jaredlll08",
   "logoFile": "",
   "screenshots": [],
   "dependencies": []

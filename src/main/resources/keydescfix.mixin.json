@@ -1,0 +1,13 @@
+
+{
+  "required": true,
+  "package": "gkappa.keydescfix.mixin",
+  "compatibilityLevel": "JAVA_8",
+  "refmap": "mixins.keydescfix.refmap.json",
+  "target": "@env(DEFAULT)",
+  "client": [
+    "KeyEntryMixin"
+  ],
+  "setSourceFile": true,
+  "minVersion": "0.8"
+}
